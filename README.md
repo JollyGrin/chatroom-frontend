@@ -2,11 +2,14 @@
 
 Creating an easily deployable and stylable chatroom
 
-API
-[ ] GET chat history
-[ ] POST chat message
-[ ] GET chat rooms
-[ ] POST new chat room
+## API
+
+- [ ] GET chat history
+- [ ] POST chat message
+- [ ] GET chat rooms
+- [ ] POST new chat room
+
+## Notes
 
 Should look into server-sent events as a one-way websocket to avoid needing a manual refresh
 
